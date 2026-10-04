@@ -2,52 +2,61 @@
 
 ### Identity & Authentication Developer
 
-I'm a developer focused on **identity, authentication, web security, and backend engineering**.
+I build and study **identity, authentication, web security, and backend systems**, with a strong focus on how modern authentication flows work at the HTTP, API, and session layers.
 
-My work explores the systems behind modern identity platforms — including authentication state, session security, CSRF protection, OTP workflows, Microsoft B2C authentication flows, and defensive security engineering.
+My portfolio combines **defensive security engineering**, authentication-flow analysis, and Python-based security tooling across controlled and authorized environments.
 
-I've designed **100+ authentication interfaces** and built independent projects to study authentication workflows at the HTTP, API, and session-management levels.
-
-## 🔐 Areas of Interest
+## 🔐 Core Focus
 
 - Identity & Authentication Engineering
 - CIAM & Microsoft Entra External ID
 - OAuth 2.0 / OpenID Connect
-- Session & Authentication State Management
+- Authentication & Session State
 - CSRF & Request Protection
 - MFA & OTP Workflows
-- HTTP/API Engineering
+- HTTP / API Engineering
 - Python Security Automation
 - Security Research & Authorized Testing
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 ### Identity Security Lab
 
-**Authentication & Web Security Engineering**
+**Defensive Authentication & Web Security**
 
-A local security engineering laboratory focused on session-bound request protection, token security, CSRF defense, User-Agent binding, session lifecycle management, and automated security testing with FastAPI.
-
-### CFSBrands — B2C Authentication Flow PoC
-
-**Authentication Flow Analysis & Automation**
-
-A Proof-of-Concept project exploring Microsoft B2C authentication workflows, dynamic authentication state, session management, CSRF protection, OTP verification, and HTTP-level automation in an authorized testing context.
+A local FastAPI security laboratory focused on session-bound request protection, token security, CSRF defense, User-Agent binding, session lifecycle management, and automated security testing.
 
 ### HanseMerkur — B2C Authentication Flow PoC
 
-**Authentication Flow Analysis & Automation**
+**Authentication Flow Analysis & Protocol Engineering**
 
-An independent PoC focused on Microsoft B2C authentication workflows, HTTP session management, authentication state, OTP workflows, concurrency, and protocol-level debugging in a controlled environment.
+An independent PoC studying a Microsoft B2C authentication workflow through HTTP session management, authentication state, OTP workflows, concurrency, and protocol-level debugging in a controlled environment.
 
-## 🧰 Technologies
+### CFSBrands — B2C Authentication Flow PoC
+
+**B2C Authentication Flow Analysis**
+
+An educational PoC exploring Microsoft B2C authentication state, session management, CSRF protection, OTP verification, and HTTP-level workflow automation for authorized testing.
+
+## 🧰 Technology Stack
 
 **Languages:** Python, JavaScript, HTML, CSS
 
-**Frameworks & Tools:** FastAPI, Uvicorn, pytest
+**Frameworks & Tools:** FastAPI, Uvicorn, pytest, Requests
 
-**Focus:** Identity • Authentication • CIAM • HTTP • APIs • Web Security • Automation
+**Domains:** Identity • Authentication • CIAM • HTTP • APIs • Web Security • Security Automation
+
+## 🎯 Engineering Direction
+
+I'm building toward deeper work in:
+
+- Identity and access management
+- Secure authentication systems
+- CIAM architecture
+- OAuth 2.0 / OpenID Connect
+- Session and token security
+- Defensive web security
 
 ---
 
-> **Long-term goal:** Build and contribute to secure, reliable identity systems and deepen my work in CIAM, authentication engineering, and defensive web security.
+> **Goal:** Build secure, reliable identity systems and grow into a strong Identity & Authentication Engineer with a focus on CIAM and defensive security engineering.
